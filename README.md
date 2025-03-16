@@ -1,0 +1,1 @@
+simple pcbnew/kicad plugin
